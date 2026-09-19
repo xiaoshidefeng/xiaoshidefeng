@@ -24,9 +24,9 @@
 ## 🔥 连续提交
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=xiaoshidefeng&locale=cn&theme=tokyonight&hide_border=true&cb=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=xiaoshidefeng&locale=cn&theme=default&hide_border=true&cb=2" />
-  <img src="https://streak-stats.demolab.com?user=xiaoshidefeng&locale=cn&hide_border=true&cb=2" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=xiaoshidefeng&theme=tokyonight&hide_border=true&cb=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=xiaoshidefeng&theme=default&hide_border=true&cb=3" />
+  <img src="https://streak-stats.demolab.com?user=xiaoshidefeng&hide_border=true&cb=3" alt="GitHub Streak" />
 </picture>
 
 ## 🐍 贡献格子

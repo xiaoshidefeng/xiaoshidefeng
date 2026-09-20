@@ -1,19 +1,3 @@
-# 你好，我是 xiaofeng 👋
-
-**全栈开发者 · 正在把 AI 落进真实产品**
-
-- 🔭 正在做 [Smart Bookmark Keeper](https://github.com/xiaoshidefeng/smart-bookmark-keeper) —— 一款集书签检测、数据洞察、可视化管理与 AI 自动整理于一体的 Chrome 插件
-- 🌱 目前在深入 LLM / Agent 应用开发
-- 🤝 为 [bytedance/deer-flow](https://github.com/bytedance/deer-flow)（AI Agent 工作流框架）和 [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)（AI 编程桌面宠物）贡献过代码
-- 📱 也写过 React Native：[hrFaceGuardRN](https://github.com/xiaoshidefeng/hrFaceGuardRN)，基于虹软 SDK 的人脸识别门禁系统移动端
-- ⚡ 信条：让重复的事情自动发生
-
-## 🛠️ 技术栈
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AI Agent](https://img.shields.io/badge/AI_Agent-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ## 📊 GitHub 数据
 
 ![Followers](https://img.shields.io/github/followers/xiaoshidefeng?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=181717&color=0969da)

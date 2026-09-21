@@ -2,7 +2,6 @@
 
 ![Followers](https://img.shields.io/github/followers/xiaoshidefeng?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=181717&color=0969da)
 ![Stars](https://img.shields.io/github/stars/xiaoshidefeng?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=181717&color=0969da)
-![Repos](https://img.shields.io/github/repos/xiaoshidefeng?style=for-the-badge&logo=github&logoColor=white&label=Repos&labelColor=181717&color=0969da)
 ![Profile Views](https://komarev.com/ghpvc/?username=xiaoshidefeng&style=for-the-badge&label=Profile+Views&color=0969da)
 
 ## 🔥 连续提交
